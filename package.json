@@ -1,5 +1,5 @@
 {
-  "name": "reactstorybook",
+  "name": "kranthistorybookui",
   "version": "0.1.0",
   "private": true,
   "main": "dist/index.js",
@@ -70,29 +70,43 @@
     "@babel/cli": "^7.18.10",
     "@babel/preset-typescript": "^7.18.6",
     "@storybook/addon-a11y": "^6.5.10",
-    "@storybook/builder-webpack4": "^6.5.10",
-    "@storybook/jest": "^0.0.10",
-    "@storybook/manager-webpack4": "^6.5.10",
-    "@storybook/test-runner": "^0.5.0",
-    "auto": "^10.37.4",
-    "cross-env": "^7.0.3",
-    "jest": "27",
-    "prettier": "^2.7.1",
     "@storybook/addon-actions": "^6.5.14",
     "@storybook/addon-essentials": "^6.5.14",
     "@storybook/addon-interactions": "^6.5.14",
     "@storybook/addon-links": "^6.5.14",
+    "@storybook/builder-webpack4": "^6.5.10",
     "@storybook/builder-webpack5": "^6.5.14",
+    "@storybook/jest": "^0.0.10",
+    "@storybook/manager-webpack4": "^6.5.10",
     "@storybook/manager-webpack5": "^6.5.14",
     "@storybook/node-logger": "^6.5.14",
     "@storybook/preset-create-react-app": "^4.1.2",
     "@storybook/react": "^6.5.14",
+    "@storybook/test-runner": "^0.5.0",
     "@storybook/testing-library": "0.0.13",
+    "auto": "^10.37.6",
     "babel-plugin-named-exports-order": "0.0.2",
     "chromatic": "^6.11.4",
+    "cross-env": "^7.0.3",
+    "jest": "27",
+    "prettier": "^2.7.1",
     "prop-types": "^15.8.1",
     "webpack": "^5.75.0"
   },
-  "readme": "ERROR: No README data found!",
-  "_id": "reactstorybook@0.1.0"
+  "description": "Ui library created and used for react and it will ne helpful and maintianed by kranthi",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kranthi0987/reactstorybook.git"
+  },
+  "keywords": [
+    "reactstorybook",
+    "kranthi",
+    "sanjaykranthi",
+    "kranthi0987"
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kranthi0987/reactstorybook/issues"
+  },
+  "homepage": "https://github.com/kranthi0987/reactstorybook#readme"
 }
