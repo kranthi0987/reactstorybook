@@ -26,7 +26,7 @@
     "chromatic": "npx chromatic --project-token=cbb6a76d6cf4",
     "test-storybook": "test-storybook",
     "build-storybook-docs": "build-storybook --docs",
-    "release": "auto shipit --base-branch=main"
+    "release": "auto shipit --base-branch=master"
   },
   "eslintConfig": {
     "extends": [
